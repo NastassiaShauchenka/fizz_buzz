@@ -1,0 +1,11 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.input-field>label {
+    color: #424242 !important;
+    font-size: 1.2rem;
+}
+
+.input-field .helper-text {
+    color: #757575 !important;
+    font-size: .8rem;
+}
